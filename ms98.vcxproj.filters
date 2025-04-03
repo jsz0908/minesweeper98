@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ms98 debugv1.3.cpp">
+    <ClCompile Include="ms98 v2.1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
